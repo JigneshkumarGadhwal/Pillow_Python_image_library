@@ -3,7 +3,7 @@ from PIL import Image, ImageColor
 # image import
 image = Image.open('picture.jpg')
 
-# documentation
+# For further information regarding documentation, Visit the following link: 
 # https://pillow.readthedocs.io/en/stable/reference/Image.html?
 print(ImageColor.colormap)
 # rotate 
